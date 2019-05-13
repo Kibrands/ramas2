@@ -42,3 +42,9 @@ public class Prueba{
 ## Imagen insertada:
 
 ![Texto de la imagen](https://github.githubassets.com/images/modules/site/home-illo-team.svg)
+
+## Tabla
+
+Columna 1 | Columna 2 | Columna 3
+:--|---|--:
+**negrita** | *cursiva* | _**negr-cur**_
