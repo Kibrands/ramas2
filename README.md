@@ -29,13 +29,13 @@ Esto es un fichero en Markdown
 ___
 
 ## Bloque de código:
-~~~
+``` java
 public class Prueba{
 	public static void main(String[] args){
 		private String nombre;
 	}
 }
-~~~
+```
 
 ---
 
