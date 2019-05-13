@@ -11,16 +11,19 @@ Esto es un fichero en Markdown
 
 ---
 
-## **Lista desordenada**
+## Lista desordenada
 - _Elemento 1_
 - __Elemento 2__
 - _**Elemento 3**_
-
-## _Lista desordenada_:
+---
 + Elemento 1
 - Elemento 2
 	* Sub elemento 1
 	* Sub elemento 2
+
+## Lista ordenada
+1. Elemento 1
+2. Elemento 2
 
 [url]: https://www.github.com/kibrands
 
@@ -28,7 +31,7 @@ Esto es un fichero en Markdown
 
 ___
 
-## Bloque de código:
+## Bloque de código
 ```java
 public class Prueba{
 	public static void main(String[] args){
@@ -39,7 +42,7 @@ public class Prueba{
 
 ---
 
-## Imagen insertada:
+## Imagen insertada
 
 ![Texto de la imagen](https://github.githubassets.com/images/modules/site/home-illo-team.svg)
 
