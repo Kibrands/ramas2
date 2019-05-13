@@ -47,4 +47,5 @@ public class Prueba{
 
 Columna 1 | Columna 2 | Columna 3
 :--|---|--:
+Alineado izq | Alineado centro | Alineado der
 **negrita** | *cursiva* | _**negr-cur**_
